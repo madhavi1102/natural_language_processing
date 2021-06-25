@@ -1,2 +1,2 @@
 # natural_language_processing guide
-Text Based Processing
+ Natural Language is critical!
